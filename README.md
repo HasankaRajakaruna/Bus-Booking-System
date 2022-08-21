@@ -17,6 +17,8 @@ Owner - owner@gmail.com
 password - 123 
 password is same for both accounts
 
+If you test route search section, please choose from value as colombo and to value as Jaffna. Because we will add all other bus routes immediately.
+
 ## Admin Panel
 
 Username - admin@gmail.com
