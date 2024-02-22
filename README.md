@@ -1,6 +1,6 @@
 # Bus-Booking-System
 
-![Uploading image.png…]()
+![image](https://github.com/HasankaRajakaruna/Bus-Booking-System/assets/111698446/e353b121-081a-4212-ae8e-7261aa7ce79e)
 
 
 This is our project that we developed "Bus.lk" - an innovative online bus ticket booking platform, envisioning a hassle-free and enhanced public transportation system in Sri Lanka.
